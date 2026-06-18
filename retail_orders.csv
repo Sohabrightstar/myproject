@@ -1,9 +1,0 @@
-OrderID,CustomerName,Region,Product,Category,Qty,UnitPrice,OrderDate,Status
-1001,Alice Johnson,North,Laptop Pro,Electronics,2.0,1200.0,2024-01-05,Completed
-1002,bob smith,  South  ,USB Cable,Accessories,10.0,15.5,2024-01-07,Pending
-1003,Carol White,East,Desk Chair,Furniture,1.0,,2024-02-10,Completed
-1004,DAVID LEE,West,Monitor 4K,Electronics,3.0,450.0,2024-02-14,Cancelled
-1005,Alice Johnson,North,Laptop Pro,Electronics,2.0,1200.0,2024-01-05,Completed
-1006,Eva Green,,Notebook,Stationery,25.0,3.75,2024-03-01,Completed
-1007,Frank Oz,North,Headphones,Electronics,,89.99,2024-03-15,Pending
-1008,Grace Kim,South,Laptop Pro,Electronics,1.0,1200.0,2024-03-20,Completed
